@@ -42,7 +42,7 @@
         { name: 'យីន​​ សៅនីម', role: 'Full-Stack Web Developer', img: 'pic-teacher/nim.png' },
         { name: 'ថន​ ស្រីវ៉ាន', role: 'គ្រូភាសាអង់គ្លេស', img: 'pic-teacher/van.png' },
         { name: 'ធីម​ ស្រីនាត', role: 'គ្រូភាសាចិន', img: 'pic-teacher/neat.png' },
-        { name: 'ផាត់ រ៉ាណាផាត', role: 'Digital Marketing Strategy', img: 'pic-teacher/suvan.png' },
+        { name: 'ផាត់ រ៉ាណាផាត', role: 'Digital Marketing Strategy', img: 'pic-teacher/phat.png' },
     ];
 
     function renderFaculty() {
